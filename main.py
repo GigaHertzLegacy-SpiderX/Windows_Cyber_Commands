@@ -68,6 +68,10 @@ while True:
         elif ui == 11:
             print("Find the MAC address of your network interfaces...")
             os.system("getmac")
+            
+         elif ui == 12:
+            print("Find the host name of your machine...")
+            os.system("hostname")
 
         elif ui == 404:
             BRIDGE()
