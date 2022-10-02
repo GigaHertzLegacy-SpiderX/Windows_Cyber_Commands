@@ -33,6 +33,8 @@ def intro1():
                 9. Get detailed TCP/IP info ( ipconfig/all ) 
                10. Windows Auto-Repair Tool ( sfc /scannow )
                11. Find the MAC address of your network interfaces ( getmac )
+               12. Find the host name of your machine ( hostname )
+               
                             ~ 404 ( exit ) ~
                        ~ 999 ( See this Menu ) ~
     """)
