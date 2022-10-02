@@ -1,4 +1,11 @@
-# Windows Cyber Security Hand-kit
+<p align="center">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/GigaHertzLegacy-SpiderX/Windows_Cyber_Commands">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/GigaHertzLegacy-SpiderX/Windows_Cyber_Commands">
+<img alt="GitHub starts" src="https://img.shields.io/github/stars/GigaHertzLegacy-SpiderX/Windows_Cyber_Commands">
+<img alt="GitHub licenses" src="https://img.shields.io/github/license/GigaHertzLegacy-SpiderX/Windows_Cyber_Commands"> 
+</p>
+
+<h1 align="center">Windows Cyber Commands [ HacktoberFest 2022 ]</h1>
  This is a tool made with basic handy built-in Windows tools. 
 
 ## Features
@@ -14,6 +21,7 @@
 - Get detailed TCP/IP info ( ipconfig/all ) 
 - Windows Auto-Repair Tool ( sfc /scannow )
 - shows the MAC address (getmac)
+- Find the host Name  
 
 
 > You can add more function if you want, everything is avaialble there
