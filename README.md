@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Windows Cyber Commands [ HacktoberFest 2022 ]</h1>
- This is a tool made with basic handy built-in Windows tools. 
+ <h3 align="center">This is a tool made with basic handy built-in Windows tools.</h3>
 
 ## Features
 
